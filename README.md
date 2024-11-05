@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm ANKUR BAIJAL
 
 Welcome to my GitHub profile! I'm a final year computer science student at ITM University Gwalior
 
