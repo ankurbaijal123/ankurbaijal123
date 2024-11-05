@@ -17,7 +17,3 @@ Welcome to my GitHub profile! I'm a final year computer science student at ITM U
 - [LinkedIn] https://www.linkedin.com/in/ankur-baijal-32526022b/
 - [Leetcode] https://leetcode.com/u/ankur_baijal/
 
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
