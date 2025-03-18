@@ -31,5 +31,5 @@ https://namastemovie-81eb3.web.app/
 
  **Connect with Me**
 ---
-[<img align="left" alt="Ankur Baijal" width="30px" src="https://api.github.com/users/ankurbaijal123.avatar_url" />](https://github.com/ankurbaijal123)  [<img align="left" alt="Instagram - Ankur Baijal" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/ankur.baijal/) [<img align="left" alt="LinkedIn - Ankur Baijal" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/ankur-baijal-32526022b/) [<img align="left" alt="Email -Ankur Baijal" width="30px" src="/Assets/gmail.png" />](mailto:ankur.baijjal11@gmail.com)
+[<img align="left" alt="Instagram - Ankur Baijal" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/ankur.baijal/) [<img align="left" alt="LinkedIn - Ankur Baijal" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/ankur-baijal-32526022b/) [<img align="left" alt="Email -Ankur Baijal" width="30px" src="/Assets/gmail.png" />](mailto:ankur.baijjal11@gmail.com)
 
