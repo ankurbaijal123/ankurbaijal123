@@ -39,22 +39,7 @@
 
 ### 📈 GitHub Activity  
 ![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurbaijal123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbaijal123&layout=compact&theme=radical)  
-
----
-
-## 📚 Coursework  
-✔️ **Database Management Systems (DBMS)**  
-✔️ **Computer Networks**  
-✔️ **Object-Oriented Programming (OOPs)**  
-✔️ **Operating Systems (OS)**  
-
----
-
-## 💡 Soft Skills  
-🕒 **Time Management**  
-🧠 **Problem Solving**  
-🔄 **Adaptability**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbaijal123&layout=compact&theme=radical)   
 
 ---
 
