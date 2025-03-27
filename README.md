@@ -12,6 +12,16 @@ Welcome to my GitHub profile! I'm a final-year Computer Science student at ITM U
 ### 🔹 Languages:
 - C++, C, Java, Python, JavaScript
 
+## 📊 LeetCode & GitHub Stats  
+
+### 🏆 LeetCode Statistics  
+![LeetCode Stats](https://leetcard.jacoblin.cool/ankur_baijal?theme=dark&font=Montserrat&ext=contest)  
+
+### 📈 GitHub Activity  
+![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurbaijal123&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbaijal123&layout=compact&theme=radical)  
+
+
 ### 🔹 Frameworks & Libraries:
 - React.js, Bootstrap, Tailwind CSS
 
