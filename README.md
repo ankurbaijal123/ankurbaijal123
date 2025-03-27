@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Ankur Baijal </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+Software+Developer;Final-year+CS+Student;React.js+%7C+FastAPI+%7C+Java+%7C+DSA;Always+learning+and+exploring!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+Software+Developer;Final-year+CS+Student;JavaScript+%7C+React.js+%7C+Java+%7C+DSA;Always+learning+and+exploring!" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 🎓 **Final-year Computer Science student at ITM University Gwalior**  
 💡 Passionate about **Problem-Solving, Web Development & Automation**  
-⚡ Exploring **React.js, FastAPI, and Competitive Programming**  
+⚡ Exploring **React.js, Node.js, and Competitive Programming**  
 📌 **Portfolio:** [AnkurBaijal-Portfolio](https://ankurbaijal123.github.io/Portfolio-AnkurBaijal/)  
 
 ---
