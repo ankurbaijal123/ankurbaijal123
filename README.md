@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a final-year Computer Science student at ITM U
 ## 🚀 Learning & Exploring
 - 🔢 **Data Structures & Algorithms** (DSA)
 - ⚛️ **React.js** for modern web development
+- 🤘**Portfolio:**  [AnkurBaijal-Portfolio](https://ankurbaijal123.github.io/Portfolio-AnkurBaijal/)
 - 🎬 **Latest Project:** [Namaste Movie](https://namastemovie-81eb3.web.app/)
 
 ## 💡 Technical Skills
