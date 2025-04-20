@@ -1,55 +1,68 @@
-<h1 align="center"> Hi there 👋, I'm Ankur Baijal </h1>
+<h1 align="center">Hey 👋, I'm Ankur Baijal</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+Software+Developer;Final-year+CS+Student;JavaScript+%7C+React.js+%7C+Java+%7C+DSA;Always+learning+and+exploring!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+Year+CS+Student;Passionate+about+Web+Dev+%26+Automation;Java+%7C+React+%7C+DSA+%7C+Node.js;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
-  
-## 🚀 About Me  
-🎓 **Final-year Computer Science student at ITM University Gwalior**  
-💡 Passionate about **Problem-Solving, Web Development & Automation**  
-⚡ Exploring **React.js, Node.js, and Competitive Programming**  
-📌 **Portfolio:** [AnkurBaijal-Portfolio](https://ankurbaijal123.github.io/Portfolio-AnkurBaijal/)  
 
 ---
 
-## 🛠️ Tech Stack  
-### 💻 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+## 🚀 About Me
 
-### 🏗️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-
-### 🗄️ Databases & Tools  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+🎓 Final-year **Computer Science** student at *ITM University Gwalior*  
+💡 Love building side projects, solving problems & automating things  
+🛠️ Currently exploring **React.js**, **Node.js**, and Competitive Programming  
+🌐 Portfolio: [ankurbaijal123.github.io/Portfolio-AnkurBaijal](https://ankurbaijal123.github.io/Portfolio-AnkurBaijal/)
 
 ---
 
-## 📊 LeetCode & GitHub Stats  
-### 🏆 LeetCode Statistics  
-![LeetCode Stats](https://leetcard.jacoblin.cool/ankur_baijal?theme=dark&font=Montserrat&ext=contest)  
+## 🧰 Tech Stack
 
-### 📈 GitHub Activity  
-![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurbaijal123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbaijal123&layout=compact&theme=radical)   
+### 🖥️ Languages
+![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=007396)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933)
+
+### 🛢️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
-## 🌍 Connect with Me  
+## 📈 GitHub & LeetCode Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankurbaijal123&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbaijal123&layout=compact&theme=tokyonight" />
+</div>
+
+### 💡 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ankur_baijal?theme=light&font=Fira+Code&ext=contest" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankur-baijal-32526022b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ankur-baijal-32526022b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:ankurbaijal123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://github.com/ankurbaijal123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
