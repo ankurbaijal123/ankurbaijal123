@@ -37,6 +37,18 @@
 
 ---
 
+## 📽️ Featured Project
+
+### 🍿 Namaste Movie (React App)
+
+> A dynamic movie search app built with React, integrating live API calls, powerful filtering, and a clean UI powered by Tailwind CSS. Explore trending titles, search your favorites, and dive into a smooth frontend experience!
+
+**Tech Stack:** ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+📂 [Source Code](https://github.com/ankurbaijal123/Namaste-Netflix)  
+🌐 [Live Demo](https://namastemovie-81eb3.web.app/)
+
+---
+
 ## 📈 GitHub & LeetCode Stats
 
 <div align="center">
