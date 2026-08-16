@@ -1,14 +1,14 @@
 <h1 align="center">Hey 👋, I'm Ankur Baijal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+Year+CS+Student;SDE+@Origin+Medical;Passionate+about+Web+Dev+%26+Automation;Java+%7C+React+%7C+DSA+%7C+Node.js;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student;SDE+@Origin+Medical;Passionate+about+Web+Dev+%26+Automation;Java+%7C+React+%7C+DSA+%7C+Node.js;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
-🎓 Final-year **Computer Science** student at *ITM University Gwalior*  
+🧰 **SDE** Origin Medical
+🎓 **Computer Science** graduate from *ITM University Gwalior*  
 💡 Love building side projects, solving problems & automating things  
 🛠️ Currently exploring **React.js**, **Node.js**, and Competitive Programming  
 🌐 Portfolio: [ankurbaijal123.github.io/Portfolio-AnkurBaijal](https://ankurbaijal123.github.io/Portfolio-AnkurBaijal/)
